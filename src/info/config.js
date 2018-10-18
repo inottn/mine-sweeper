@@ -37,7 +37,7 @@ export const minefield = {
   marginLeft: 16,
   gapLength: 8,
   bgColor: '#FFFFFF',
-  minesCount: 10,
+  minesCount: 40,
   xCellsCount: 24,
   yCellsCount: 12
 }
